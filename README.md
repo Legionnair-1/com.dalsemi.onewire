@@ -1,2 +1,3 @@
 # com.dalsemi.onewire
-Maven Repo for support of projects who uses com.dalsemi.onewire  onewire-1.10 
+Maven Repo for support of projects for those who need this java dependency com.dalsemi.onewire onewire-1.10 
+
